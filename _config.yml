@@ -1,9 +1,9 @@
 # Site
-name: 'Mundana'
+name: 'BestHostingDeals'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: '/'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: BestHostingDeals
       avatar: /assets/images/avatar1.jpg
       
   # all pages
