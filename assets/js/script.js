@@ -12,8 +12,6 @@
   });
 
 
-<!-- Then, add the JavaScript for toggling the dark-mode class -->
-
   function toggleDarkMode() {
     const body = document.body;
     body.classList.toggle('dark-mode');
