@@ -804,29 +804,4 @@ div.a2a_full_footer {display:none;}
 	 }
  }
  
- /* Dark mode styles */
-.dark-mode {
-	background-color: #111; /* Change this to your preferred dark mode background color */
-	color: #fff; /* Change this to your preferred text color for dark mode */
-  }
-/* Apply dark mode styles to the entire page */
-.dark-mode body {
-	background-color: #111; /* Change this to your preferred dark mode background color */
-	color: #fff; /* Change this to your preferred text color for dark mode */
-  }
-
-  /* Apply dark mode styles to headers */
-.dark-mode h1, .dark-mode h2, .dark-mode h3 {
-	color: #fff; /* Change this to your preferred header text color for dark mode */
-  }
-  
-  /* Apply dark mode styles to paragraphs */
-  .dark-mode p {
-	color: #ccc; /* Change this to your preferred paragraph text color for dark mode */
-  }
-  
-  /* Apply dark mode styles to links */
-  .dark-mode a {
-	color: #03a87c; /* Change this to your preferred link color for dark mode */
-  }
   
