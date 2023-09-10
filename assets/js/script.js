@@ -10,10 +10,10 @@
       themeStyle.setAttribute('href', 'light-theme.css');
     }
   });
-</script>
+
 
 <!-- Then, add the JavaScript for toggling the dark-mode class -->
-<script>
+
   function toggleDarkMode() {
     const body = document.body;
     body.classList.toggle('dark-mode');
