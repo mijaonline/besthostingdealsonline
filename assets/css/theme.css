@@ -726,8 +726,8 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 }
 /* Adjust the size of social media icons in the footer */
 footer a img {
-	width: 20px; /* Set the width to make the icons smaller */
-	height: 20px; /* Set the height to make the icons smaller */
+	width: 40px; /* Set the width to make the icons smaller */
+	height: 40px; /* Set the height to make the icons smaller */
 }
 
 @media (max-width:1199.98px) {
