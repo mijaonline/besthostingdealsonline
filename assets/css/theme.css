@@ -803,5 +803,10 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 
+ /* Adjust the size of social media icons in the footer */
+.social-icons {
+    font-size: 20px; /* You can adjust the size to your preference */
+    margin-right: 10px; /* Add some spacing between the icons */
+}
+
   
