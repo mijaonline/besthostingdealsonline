@@ -2,7 +2,7 @@
 layout: post
 title: "Latest News and Trends in Web Hosting Services"
 date: 2023-09-09 10:00:00 +0000
-categories: [Technology, Web Hosting]
+categories: [Technology, Web Hosting, tutorial 
 author: BestHostingDeals
 image: assets/images/webhost3.jpg
 ---
