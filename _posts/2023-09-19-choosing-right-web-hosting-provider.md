@@ -57,4 +57,4 @@ Remember that the right hosting provider should align with your website's needs,
 
 Start your journey towards a better hosting experience today.
 
-*Have any questions about web hosting or need recommendations? Feel free to [contact us](mailto:your@email.com) for expert advice.*
+*Have any questions about web hosting or need recommendations? Feel free to [contact us](mailto:michael.honey18@gmail.com) for expert advice.*
