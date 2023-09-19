@@ -18,12 +18,12 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-authors:
+author:
     BestHostingDeals:
       name:           BestHostingDeals
       site:           https://BestHostingDeals.online
       avatar:         /assets/images/WEBHOSTDP.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Your gateway to unbeatable hosting deals! Discover top-notch web hosting solutions and exclusive offers. Empowering your online presence, one deal at a time."
       email:          michael.honey18@gmail.com
       facebook:        https://www.facebook.com/besthostingdealsonline
 
