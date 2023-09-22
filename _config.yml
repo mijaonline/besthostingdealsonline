@@ -1,8 +1,8 @@
 # Site
 name: 'BestHostingDeals'
 description: '"Unlock Affordable Hosting Excellence with BestHostingDeals.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/favicon-32x32.png'
+favicon: 'assets/images/bestico.ico'
 baseurl: '/'
 disqus: 'demowebsite'
 email: 'michael.honey18@gmail.com'
