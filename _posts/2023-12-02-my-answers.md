@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "my answers"
-date: 2023-12-02 10:00:00 +0000
+date: 2023-12-02
 categories: [Technology, Web Hosting]
 tags: [featured]
 author: BestHostingDeals
-image: assets/images/webhost.jpg
+image:
 ---
 
 **Paragraph 1:**
